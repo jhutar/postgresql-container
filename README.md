@@ -62,7 +62,7 @@ Choose either the CentOS Stream 9 or RHEL9-based image:
   These images are available on Quay.io. To download the image, execute the following command:
 
   ```bash
-  $ podman pull https://quay.io/repository/sclorg/postgresql-13-c9s
+  $ podman pull quay.io/sclorg/postgresql-13-c9s
   ```
 
   To build a PostgreSQL image from scratch, perform the following steps:
